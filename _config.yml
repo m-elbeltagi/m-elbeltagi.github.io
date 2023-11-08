@@ -4,7 +4,9 @@ logo: "/resources/myphoto.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)  
   Data Science|Machine Learning|Physics
   <br><br>
-  
+  Languages: Python, SQL, JavaScript, C++, Java, HTML, LabVIEW
+  <br><br>
+  Libraries/Tools: Numpy, Pandas, scikit-learn, Matplotlib, Seaborn, Plotly, PyTorch, TensorFlow, Keras, Hugging Face Transformers, Apache Airflow, Jupyter Notebooks, Flask, AWS, GCP, Git, Selenium, Tableau, Docker
   <br><br>
   <a href="https://linkedin.com/in/mohamed-elbeltagi-016995107">My LinkedIn Profile</a>
 

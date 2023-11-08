@@ -11,4 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://github.com/m-elbeltagi/m-elbeltagi.github.io/blob/master/pdf/sample_presentation.pdf">View My Resume</a>
 
+  <br><br>
+  <a href="https://scholar.google.com/citations?user=Wv_oG8QAAAAJ&hl=en">View My Publications</a>
+
 theme: jekyll-theme-minimal

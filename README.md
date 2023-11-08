@@ -19,7 +19,7 @@
 
 ---
 ## Applied Projects
-###Twitter Troll Detection
+### Twitter Troll Detection
 
 [Project Poster](/resources/TwitterTroll_poster.png).
 

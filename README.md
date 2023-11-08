@@ -25,9 +25,7 @@
   <img src="/resources/TwitterTroll_cover.png?raw=true" width="300" height="300"/>
 </div>
 
-
-
-
+<br>
 [Project Poster](/resources/TwitterTroll_poster.png)
 (_The attached poster won 3rd place at the [Carleton Data Day 9.0](https://science.carleton.ca/dataday9/) competition._)
 
@@ -48,9 +46,7 @@ The models were trained using 2 political tweets datasets, one confirmed to be r
   <img src="/resources/SignalSearch_cover.png?raw=true" width="300" height="300"/>
 </div>
 
-
-
-
+<br>
 [Project Report](https://github.com/m-elbeltagi/Signal_Hypothesis_Testing/blob/main/MohamedElbeltagi_5002Project.pdf)
 
 This was the final project of a graduate **Computational Physics** course that I took a few years back. The objective was to identify the _mystery_ signal distribution (and number of signal events), given various background events occuring inside a physics detector. **EDA** is performed for the training data (in the context of physics, training data are usually obtained by **Monte Carlo simulations** emulating what we understand about real world physics processes) looking at the distributions, their properties, and correlations between them. Then **dimensionality reduction** is performed by constructing a Fisher discriminant, and cuts are applied to the _mystery_ data distribution by choosing an appropriate **p-value**. 

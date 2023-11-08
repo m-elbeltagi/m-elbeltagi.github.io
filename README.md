@@ -21,6 +21,10 @@
 ## Select Applied Projects
 ### Twitter Troll Detection: An LLM Approach
 
+<div style="text-align: center;">
+  <img src="/resources/TwitterTroll_cover.png?raw=true" width="300" height="300"/>
+</div>
+
 [Project Poster](/resources/TwitterTroll_poster.png)
 
 (_The attached poster won 3rd place at the [Carleton Data Day 9.0](https://science.carleton.ca/dataday9/) poster competition._)
@@ -33,23 +37,20 @@ We apply a transfer learning approach to tweet classification, 3 models were use
 The models were trained using 2 political tweets datasets, one confirmed to be russian-troll tweets, and one containing election-related political tweets, while excluding foreign and non-english language tweets.
 
 [View the project code on my GitHub profile](https://github.com/m-elbeltagi/Twitter_Troll_Detection)
-<div style="text-align: center;">
-  <img src="/resources/TwitterTroll_cover.png?raw=true" width="300" height="300"/>
-</div>
 
 ---
 
 ### Searching for Signal in a Haystack of Backgrounds
+
+<div style="text-align: center;">
+  <img src="/resources/SignalSearch_cover.png?raw=true" width="300" height="300"/>
+</div>
 
 [Project Report](https://github.com/m-elbeltagi/Signal_Hypothesis_Testing/blob/main/MohamedElbeltagi_5002Project.pdf)
 
 This was the final project of a graduate **Computational Physics** course that I took a few years back. The objective was to identify the _mystery_ signal distribution (and number of signal events), given various background events occuring inside a physics detector. **EDA** is performed for the training data (in the context of physics, training data are usually obtained by **Monte Carlo simulations** emulating what we understand about real world physics processes) looking at the distributions, their properties, and correlations between them. Then **dimensionality reduction** is performed by constructing a Fisher discriminant, and cuts are applied to the _mystery_ data distribution by choosing an appropriate **p-value**. 
 
 [View the project code on my GitHub profile (written in Python but utilises Cern **ROOT C++** framework)](https://github.com/m-elbeltagi/Signal_Hypothesis_Testing)
-<div style="text-align: center;">
-  <img src="/resources/SignalSearch_cover.png?raw=true" width="300" height="300"/>
-</div>
-
 
 ---
 

@@ -1,5 +1,5 @@
 title: Mohamed Elbeltagi # your name (or website title) here
-#title_font_size: 22px
+title_font_size: 18px
 logo: "/resources/myphoto.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)  
   Data Science|Machine Learning|Physics

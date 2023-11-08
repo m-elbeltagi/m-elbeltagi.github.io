@@ -31,6 +31,7 @@ We apply a transfer learning approach to tweet classification, 3 models were use
 <div style="text-align: center;">
   <img src="/resources/TwitterTroll_cover.png?raw=true" width="300" height="300"/>
 </div>
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>

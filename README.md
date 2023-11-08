@@ -12,7 +12,7 @@
 
 **NLP Engineer Intern @ Advanced Symbolics (Summer 2023)**
 - Reasearched latest papers to engineer and integrate custom metrics to meticulously evaluate **NLP** tasks, including clustering and summarization, ensuring high-quality model output.
-- Actively engaged in **MLOps** practices, orchestrating the seamless operation of **NLP** production pipelines on **AirFlow** (using **Git**), significantly minimizing downtime and bolstering continuous delivery of **machine learning** solutions.
+- Actively engaged in **MLOps** practices, orchestrating the seamless operation of **NLP** production pipelines on **AirFlow** (using **Git**), significantly minimizing downtime and bolstering continuous delivery of **ML** solutions.
 
 **Physics Course Instructor @ Carleton University - Math Department (_Sep 2021 - Present_)**
 - Led full-year physics courses on mechanics and electrostatics for high school students, developing and delivering lecture materials, coordinating with TAs for optimal student support.

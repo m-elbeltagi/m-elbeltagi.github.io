@@ -1,18 +1,18 @@
-title: Mohamed Elbeltagi # your name (or website title) here
-title_font_size: 24px
-logo: "/resources/myphoto.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)  
-  Data Science|Machine Learning|Physics
-  <br><br>
-   <a href="https://linkedin.com/in/mohamed-elbeltagi-016995107">LinkedIn</a> |
-  <a href="/resources/Mohamed_Elbeltagi_Resume.pdf">My Resume</a> | 
-  <a href="https://scholar.google.com/citations?user=Wv_oG8QAAAAJ&hl=en">My Publications</a>
-  <br><br>
-  Languages: Python, SQL, JavaScript, C++, Java, HTML
-  <br><br>
-  Libraries/Tools: Pandas, scikit-learn, Matplotlib, PyTorch, Hugging Face Transformers, Apache Airflow, Jupyter Notebooks, Flask, AWS, GCP, Git, Selenium, Docker
-
- 
-
-
-theme: jekyll-theme-minimal
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <div style="margin-bottom: 20px; font-size: 20px;">
+    Data Science | Machine Learning | Physics
+  </div>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <a href="https://linkedin.com/in/mohamed-elbeltagi-016995107" style="text-decoration: none; padding: 5px 10px; transition: background-color 0.3s ease, color 0.3s ease;">LinkedIn</a>
+    <a href="/resources/Mohamed_Elbeltagi_Resume.pdf" style="text-decoration: none; padding: 5px 10px; transition: background-color 0.3s ease, color 0.3s ease;">My Resume</a>
+    <a href="https://scholar.google.com/citations?user=Wv_oG8QAAAAJ&hl=en" style="text-decoration: none; padding: 5px 10px; transition: background-color 0.3s ease, color 0.3s ease;">My Publications</a>
+  </div>
+  <div style="margin-bottom: 10px;">
+    <h3 style="margin: 0; font-size: 16px;">Languages:</h3>
+    <p style="margin: 5px 0 0 0; font-size: 14px;">Python, SQL, JavaScript, C++, Java, HTML</p>
+  </div>
+  <div style="margin-bottom: 10px;">
+    <h3 style="margin: 0; font-size: 16px;">Libraries/Tools:</h3>
+    <p style="margin: 5px 0 0 0; font-size: 14px;">Pandas, scikit-learn, Matplotlib, PyTorch, Hugging Face Transformers, Apache Airflow, Jupyter Notebooks, Flask, AWS, GCP, Git, Selenium, Docker</p>
+  </div>
+</div>

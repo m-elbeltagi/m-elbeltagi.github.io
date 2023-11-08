@@ -52,6 +52,7 @@ This was the final project of a graduate **Computational Physics** course that I
 
 
 ---
+
 ### CapitaLens
 
 This is a web app that aims to provide up-to-date relevant information about assets and stocks, including recent news discussing the asset, the general emotions breakdown of said news, overlayed onto recent stock performance, with the goal of making more informed investment decisions.

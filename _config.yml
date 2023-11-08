@@ -1,0 +1,14 @@
+title: Mohamed Elbeltagi # your name (or website title) here
+#title_font_size: 22px
+logo: "/images/myphoto1.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)  
+  Data Science|Machine Learning|Physics
+  <br><br>
+  
+  <br><br>
+  <a href="https://linkedin.com/in/mohamed-elbeltagi-016995107">View My LinkedIn Profile</a>
+
+  <br><br>
+  <a href="https://github.com/m-elbeltagi/m-elbeltagi.github.io/blob/master/pdf/sample_presentation.pdf">View My Resume</a>
+
+theme: jekyll-theme-minimal

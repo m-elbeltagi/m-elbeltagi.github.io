@@ -2,8 +2,6 @@
 - Ph.D., Particle Physics|Carleton University, Canada
 - BSc Honours, Theoretical Physics|Carleton University, Canada
   
----
-
 ## Professional Experience
 
 **Research Assistant/Data Analyst @ Carleton University - Physics Department (_May 2018 - Present_)**
@@ -30,7 +28,7 @@
 We apply a transfer learning approach to tweet classification, 3 models were used to compare their performance. (1) A distilled version of a pretrained LLM with fixed weights for encoding the text, and a binary classification head trained on top of it. (2) A pretrained smaller version of a LLM, now its weights adjustable by the training process to be finetuned, along with a binary classification head. (3) and finally a new (at the time this project was underway) few-shot learning (without prompts) technique called SetFit (https://huggingface.co/blog/setfit) that dramatically decreases the number of examples needed for training by using contrastive learning. The models were trained using 2 political tweets datasets, one confirmed to be russian-troll tweets, and one containing election-related political tweets, while excluding foreign/ and non-english language tweets.
 
 Visit my GitHub Profile to view the project code.
-<img src="/resources/TwitterTroll_cover.png?raw=true" width="512" height="512"/>
+<img src="/resources/TwitterTroll_cover.png?raw=true" width="300" height="300"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

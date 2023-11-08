@@ -18,36 +18,42 @@
 - Led full-year physics courses on mechanics and electrostatics for high school students, developing and delivering lecture materials, coordinating with TAs for optimal student support.
 
 ---
-## Applied Projects
-### Twitter Troll Detection
+## Select Applied Projects
+### Twitter Troll Detection: An LLM Approach
 
 [Project Poster](/resources/TwitterTroll_poster.png).
 
-[_The attached poster won 3rd place at the Carleton Data Day 9.0 poster competition._](https://science.carleton.ca/dataday9/)
+_The attached poster won 3rd place at the Carleton Data Day 9.0 poster competition._
+[Click to see](https://science.carleton.ca/dataday9/)
 
-We apply a transfer learning approach to tweet classification, 3 models were used to compare their performance. (1) A distilled version of a pretrained LLM with fixed weights for encoding the text, and a binary classification head trained on top of it. (2) A pretrained smaller version of a LLM, now its weights adjustable by the training process to be finetuned, along with a binary classification head. (3) and finally a new (at the time this project was underway) few-shot learning (without prompts) technique called [**SetFit**](https://huggingface.co/blog/setfit) that dramatically decreases the number of examples needed for training by using contrastive learning. The models were trained using 2 political tweets datasets, one confirmed to be russian-troll tweets, and one containing election-related political tweets, while excluding foreign/ and non-english language tweets.
+We apply a transfer learning approach to tweet classification, 3 models were used to compare their performance. 
+1. A distilled version of a **pretrained LLM with fixed weights** for encoding the text, and a binary classification head trained on top of it. 
+2. A pretrained smaller version of a LLM, now its weights adjustable by the training process to be **fine-tuned**, along with a binary classification head. 
+3. A new (at the time this project was underway) few-shot learning (without prompts) technique called [SetFit](https://huggingface.co/blog/setfit) that dramatically decreases the number of examples needed for training by using contrastive learning.
 
-[Visit my GitHub Profile to view the project code.](https://github.com/m-elbeltagi/Twitter_Troll_Detection)
+The models were trained using 2 political tweets datasets, one confirmed to be russian-troll tweets, and one containing election-related political tweets, while excluding foreign and non-english language tweets.
+
+[View the project code on my GitHub profile](https://github.com/m-elbeltagi/Twitter_Troll_Detection)
 <div style="text-align: center;">
   <img src="/resources/TwitterTroll_cover.png?raw=true" width="300" height="300"/>
 </div>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Searching for Signal in a Haystack of Backgrounds
+
+[Project Report](https://github.com/m-elbeltagi/Signal_Hypothesis_Testing/blob/main/MohamedElbeltagi_5002Project.pdf)
+
+This was the final project of a graduate **Computational Physics** course that I took. The objective was to identify the _mystery_ signal distribution (and number of signal events), given various background events occuring inside a physics detector. **EDA** is performed for the training data (in the context of physics, training data are usually obtained by **Monte Carlo simulations** emulating what we understand about real world physics processes) looking at the distributions (and their properties), and correlations between them. Then **dimensionality reduction** is performed by constructing a Fisher discriminant, and cuts are performed on the _mystery_ data by choosing an appropriate **p-value**. 
+
+[View the project code on my GitHub profile (written in Python but utilises Cern **ROOT C++** framework)](https://github.com/m-elbeltagi/Signal_Hypothesis_Testing)
+<div style="text-align: center;">
+  <img src="/resources/SignalSearch_cover.png?raw=true" width="300" height="300"/>
+</div>
+
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### CapitaLens
 
----
+This is a web app that aims to provide up-to-date relevant information about assets and stocks, including recent news discussing the asset, the general emotions breakdown of said news, overlayed onto recent stock performance, with the goal of making more informed investment decisions.
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
-
+Currently building the web app, will post here when it's deployed.

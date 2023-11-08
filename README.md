@@ -38,6 +38,7 @@ The models were trained using 2 political tweets datasets, one confirmed to be r
 </div>
 
 ---
+
 ### Searching for Signal in a Haystack of Backgrounds
 
 [Project Report](https://github.com/m-elbeltagi/Signal_Hypothesis_Testing/blob/main/MohamedElbeltagi_5002Project.pdf)

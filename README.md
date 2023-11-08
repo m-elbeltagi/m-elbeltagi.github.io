@@ -27,6 +27,7 @@
 
 <br>
 [Project Poster](/resources/TwitterTroll_poster.png)
+
 (_The attached poster won 3rd place at the [Carleton Data Day 9.0](https://science.carleton.ca/dataday9/) competition._)
 
 We apply a transfer learning approach to tweet classification, 3 models were used to compare their performance. 

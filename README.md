@@ -21,7 +21,7 @@
 ## Select Applied Projects
 ### Twitter Troll Detection: An LLM Approach
 
-[Project Poster](/resources/TwitterTroll_poster.png).
+[Project Poster](/resources/TwitterTroll_poster.png)
 
 _The attached poster won 3rd place at the Carleton Data Day 9.0 poster competition._
 [Click to see](https://science.carleton.ca/dataday9/)

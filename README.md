@@ -23,8 +23,7 @@
 
 [Project Poster](/resources/TwitterTroll_poster.png)
 
-_The attached poster won 3rd place at the Carleton Data Day 9.0 poster competition._
-[Click to see](https://science.carleton.ca/dataday9/)
+(_The attached poster won 3rd place at the [Carleton Data Day 9.0](https://science.carleton.ca/dataday9/) poster competition._)
 
 We apply a transfer learning approach to tweet classification, 3 models were used to compare their performance. 
 1. A distilled version of a **pretrained LLM with fixed weights** for encoding the text, and a binary classification head trained on top of it. 

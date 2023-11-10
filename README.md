@@ -5,7 +5,7 @@
 ## Professional Experience
 
 **_Research Assistant/Data Analyst_ @ Carleton University - Physics Department (_May 2018 - Present_)**
-- Spearheaded the collection, storage and analysis of laboratory sensor data using **Python** and LabVIEW, enhancing the operational efficiency of particle physics experiment through uninterrupted monitoring and maintenance of a complex detector system.
+- Headed the collection, storage and analysis of laboratory sensor data using **Python** and LabVIEW, enhancing the operational efficiency of particle physics experiment through uninterrupted monitoring and maintenance of a complex detector system.
 - Developed a **Python** package for signal processing and time-series analysis (with **visualization** and **reports**), enabling pattern recognition and predictive maintenance that significantly reduced the risk of dielectric breakdowns in HV equipment.
 - Applied innovative Monte Carlo methods in **machine learning** to improve probability density estimation for detector events, which sharpened the precision of measurement uncertainty. 
 
@@ -15,7 +15,7 @@
 - Actively engaged in **MLOps** practices, orchestrating the seamless operation of **NLP** production pipelines on **AirFlow** (using **Git**), significantly minimizing downtime and bolstering continuous delivery of **ML** solutions.
 
 **_Physics Course Instructor_ @ Carleton University - Math Department (_Sep 2021 - Present_)**
-- Led full-year physics courses on mechanics and electrostatics for high school students, developing and delivering lecture materials, coordinating with TAs for optimal student support.
+- Led physics courses on mechanics and electrostatics for classes of 20+ high school students, creating and delivering lecture materials, coordinating with TAs for optimal student support.
 
 ---
 ## Select Applied Projects

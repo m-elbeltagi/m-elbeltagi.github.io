@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="/resources/Mohamed_Elbeltagi_Resume.pdf">My Resume</a> | 
   <a href="https://scholar.google.com/citations?user=Wv_oG8QAAAAJ&hl=en">My Publications</a>
   <br><br>
-  Languages: Python, SQL, JavaScript, C++, Java, HTML
+  Languages: Python, SQL, JavaScript, C++, Java
   <br><br>
   Libraries/Tools: Pandas, scikit-learn, Matplotlib, PyTorch, Hugging Face Transformers, Apache Airflow, Jupyter Notebooks, Flask, AWS, GCP, Git, Selenium, Docker
 

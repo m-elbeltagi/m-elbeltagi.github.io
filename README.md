@@ -61,7 +61,7 @@ This was the final project of a graduate **Computational Physics** course that I
   <img src="/resources/ChatDr_cover.png?raw=true" width="300" height="300"/>
 </div>
 
-This is an extractive question answering (**extractive QA**) medical chat bot, to answer questions given a patient's medical history. It is a version of a language model trained on the [SQuAD_v2 dataset](https://huggingface.co/datasets/squad_v2), further fine-tuned on a medical QA dataset. The fine-tuning was performed on an **NVIDIA RTX 3060ti GPU**, utilising the **Hugging Face Transformers** library (specifically using the **Trainer class**), after preparing the supervised training dataset using **PyTorch**. Training metrics and performance were logged in real-time, and the different training runs were conveniently versioned using **Tensor Board** which provides interactive graphs/visualizations.
+This is an extractive question answering (**extractive QA**) medical chat bot, to answer questions given a patient's medical history. It is a version of a language model trained on the [SQuAD_v2 dataset](https://huggingface.co/datasets/squad_v2), further fine-tuned on a medical QA dataset. The fine-tuning was performed on an **NVIDIA RTX 3060ti GPU**, utilising the **Hugging Face Transformers** library (specifically using the [Trainer class](https://huggingface.co/docs/transformers/main_classes/trainer)), after preparing the supervised training dataset using **PyTorch**. Training metrics and performance were logged in real-time, and the different training runs were conveniently versioned using **Tensor Board** which provides interactive graphs/visualizations.
 
 [View the project code on my GitHub profile (Jupyter Notebook)](https://github.com/m-elbeltagi/ChatDr)
 

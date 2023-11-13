@@ -14,7 +14,7 @@
 - Reasearched latest papers to engineer and integrate custom metrics to meticulously evaluate **NLP** tasks, including clustering and summarization, ensuring high-quality model output.
 - Actively engaged in **MLOps** practices, orchestrating the seamless operation of **NLP** production pipelines on **AirFlow** (using **Git**), significantly minimizing downtime and bolstering continuous delivery of **ML** solutions.
 
-**_Physics Course Instructor_ @ Carleton University - Math Department (_Sep 2021 - Present_)**
+**_Course Instructor_ @ Carleton University - Math Department (_Sep 2021 - Present_)**
 - Led physics courses on mechanics and electrostatics for classes of 20+ high school students, creating and delivering lecture materials, coordinating with TAs for optimal student support.
 
 ---
@@ -55,7 +55,7 @@ This was the final project of a graduate **Computational Physics** course that I
 [View the project code on my GitHub profile (written in Python but utilises Cern **ROOT C++** framework)](https://github.com/m-elbeltagi/Signal_Hypothesis_Testing)
 
 ---
-###ChatDr
+### ChatDr
 
 <div style="text-align: center;">
   <img src="/resources/ChatDr_cover.png?raw=true" width="300" height="300"/>

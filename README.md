@@ -24,7 +24,7 @@
 - Led physics courses on mechanics and electrostatics for classes of 20+ high school students, creating and delivering lecture materials, coordinating with TAs for optimal student support.
 
 ---
-## Select Applied Projects
+## Applied Projects Highlights
 ### Twitter Troll Detection: An LLM Approach
 
 <div style="text-align: center;">

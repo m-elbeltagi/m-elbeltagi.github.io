@@ -64,6 +64,7 @@ This was the final project of a graduate **Computational Physics** course that I
   <img src="/resources/DCGAN_cover.png?raw=true" width="300" height="300"/>
 </div>
 
+<br>
 In this project I designed and implemented in **PyTorch** a deep convolutional generative adversarial network (**DCGAN**) that I trained to generate images of natural landscapes with 3 color channels. It takes in a vector of random numbers from a latent space, and outputs images of natural landscapes. This is based on the concept of an adversarial network, but with the Generator and Discriminator being convolutional networks, which are better suited for dealing with images.
 
 The loss of the Discriminator is based on whether the input image to it was in the training set, or came from the Generator. The loss of the Generator is based on the Discriminator's output/label, in a sense, the more its able to fool the Discriminator, the less it gets its weight updated via gradient descent because its doing a "good job", but if it gets discovered by the Discriminator, it gets a larger weight update because it doing a bad "job". This process continues in the training loop untill the discriminator can't tell the difference between real and generated images (it picks the label of each with $p=0.5$).

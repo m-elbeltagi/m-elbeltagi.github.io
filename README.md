@@ -61,6 +61,25 @@ This was the final project of a graduate **Computational Physics** course that I
 [View the project code on my GitHub profile (written in Python but utilises Cern **ROOT C++** framework)](https://github.com/m-elbeltagi/Signal_Hypothesis_Testing)
 
 ---
+### From Randomness to Nature
+
+<div style="text-align: center;">
+  <img src="/resources/DCGAN_cover.png?raw=true" width="300" height="300"/>
+</div>
+
+In this project I designed and implemented in **PyTorch** a deep convolutional generative adversarial network (**DCGAN**) that I trained to generate images of natural landscapes with 3 color channels. It takes in a vector of random numbers from a latent space, and outputs images of natural landscapes. This is based on the concept of an adversarial network, but with the Generator and Discriminator being convolutional networks, which are better suited for dealing with images.
+
+The loss of the Discriminator is based on whether the input image to it was in the training set, or came from the Generator. The loss of the Generator is based on the Discriminator's output/label, in a sense, the more its able to fool the Discriminator, the less it gets its weight updated via gradient descent because its doing a "good job", but if it gets discovered by the Discriminator, it gets a larger weight update because it doing a bad "job". This process continues in the training loop untill the discriminator can't tell the difference between real and generated images (it picks the label of each with $p=0.5$).
+
+$L_D = \mathop{max}_{D} ; \space log(D(x)) + log(1-D(G(z)))$
+
+$L_G = \mathop{min}_{G} ; \space log(1-D(G(z)))$
+
+Where $x$ is an image from the trianing set, $z$ is random noise from the latent space that the Generator uses to produce images, $D$ is the Discriminator, $G$ is the Generator. This is just the **_binary cross entropy loss_**.
+
+[View the project code on my GitHub profile]([https://github.com/m-elbeltagi/ChatDr](https://github.com/m-elbeltagi/Landscape-Convolutional-GAN))
+
+---
 ### ChatDr
 
 <div style="text-align: center;">

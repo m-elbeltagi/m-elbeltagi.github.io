@@ -96,14 +96,6 @@ This is an extractive question answering (**extractive QA**) medical chat bot, t
 
 [View the project code on my GitHub profile (Jupyter Notebook)](https://github.com/m-elbeltagi/ChatDr)
 
----
-
-### CapitaLens
-
-<div style="text-align: center;">
-  <img src="/resources/CapitaLens_cover.png?raw=true" width="300" height="300"/>
-</div>
-
 This is a web app that aims to provide up-to-date relevant information about assets and stocks, including recent news discussing the asset, the general emotions breakdown of said news, overlayed onto recent stock performance, with the goal of making more informed investment decisions.
 
 Currently building the web app, will post here when it's deployed.

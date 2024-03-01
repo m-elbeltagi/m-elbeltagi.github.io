@@ -20,6 +20,13 @@
 
 - Led physics courses on mechanics and electrostatics for classes of 20+ high school students, creating and delivering lecture materials, coordinating with TAs for optimal student support.
 
+
+### Comparing Arabic Sentence Embedding Transformers
+
+There is a scarcity of evidence and benchmarks indicating the performance of sentence embedding transformers on Arabic language text, **_especially_** for smaller models that can be trained on a single "garden-variety" GPU (such as those used for gaming). Here I test a few different sentence embedding models on a multi-class classification problem to see which performs better. 
+
+[View the project code on my GitHub profile](https://github.com/m-elbeltagi/Comparing_Arabic_Sentence_Transformers)
+
 ---
 ## Applied Projects Highlights
 ### Twitter Troll Detection: An LLM Approach

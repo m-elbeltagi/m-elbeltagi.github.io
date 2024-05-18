@@ -4,7 +4,7 @@
   
 ## Professional Experience
 
-**_Research Scientist_ @ Carleton University - Physics Department** (_May 2018 - Present_)
+**_Research Scientist_ @ Carleton University - Physics Department** (_May 2018 - Apr 2024_)
 
 - Headed the collection, storage and analysis of laboratory sensor data using **Python** and LabVIEW, enhancing the operational efficiency of particle physics experiment through uninterrupted monitoring and maintenance of a complex detector system.
 - Developed a **Python** package for signal processing and time-series analysis (with **visualization** and **reports**), enabling pattern recognition and predictive maintenance that significantly reduced the risk of dielectric breakdowns in HV equipment.
